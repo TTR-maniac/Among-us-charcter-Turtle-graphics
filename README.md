@@ -17,3 +17,6 @@ just dont mess around with it too much
 
 All credits go to me if you do anything with this project
 YOU HAVE NO CHOICE 
+do 
+pip install turtle
+if you wanna be extra
